@@ -1,2 +1,2 @@
-# Display Stock-price
+# Display Stock price
 
